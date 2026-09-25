@@ -1,11 +1,5 @@
 title: アサヒ株式会社
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-
+description: 宮城県登米市のアサヒ株式会社は、デニム製品を中心とした縫製を行う国内縫製会社です。培ってきた技術と品質へのこだわりを大切に、一着一着丁寧なものづくりに取り組んでいます。
 url: "https://asahi-jinz.github.io"
 baseurl: ""
 
