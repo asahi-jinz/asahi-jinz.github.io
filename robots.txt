@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://asahi-jinz.github.io/asahi/sitemap.xml
