@@ -7,17 +7,17 @@
 
   <ul class="menu">
     <li>
-      <a href="{{ '/index.html' | relative_url }}" class="logo-link">
+      <a href="{{ '/' | relative_url }}" class="logo-link">
         <img src="{{ '/img/asahilogo_w.png' | relative_url }}" alt="アサヒ株式会社" />
       </a>
     </li>
     {% if page.special_header %}
-    <li><a href="{{ '/index.html#top' | relative_url }}">トップ</a></li>
-    <li><a href="{{ '/index.html#works' | relative_url }}">仕事内容</a></li>
-    <li><a href="{{ '/index.html#flow' | relative_url }}">縫製の流れ</a></li>
-    <li><a href="{{ '/index.html#company' | relative_url }}">会社情報</a></li>
-    <li><a href="{{ '/index.html#recruit' | relative_url }}">求人情報</a></li>
-    <li><a href="{{ '/index.html#access' | relative_url }}">アクセス</a></li>
+    <li><a href="{{ '/#top' | relative_url }}">トップ</a></li>
+    <li><a href="{{ '/#works' | relative_url }}">仕事内容</a></li>
+    <li><a href="{{ '/#flow' | relative_url }}">縫製の流れ</a></li>
+    <li><a href="{{ '/#company' | relative_url }}">会社情報</a></li>
+    <li><a href="{{ '/#recruit' | relative_url }}">求人情報</a></li>
+    <li><a href="{{ '/#access' | relative_url }}">アクセス</a></li>
     {% else %}
     <li><a href="#top">トップ</a></li>
     <li><a href="#works">仕事内容</a></li>
