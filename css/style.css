@@ -630,7 +630,7 @@ footer .footermenu li a:hover {
 .fv-bg {
   position: absolute;
   inset: 0;
-  background-image: url("../img/img/firstview.png");
+  background-image: url("../img/firstview.png");
   background-size: cover;
   background-position: center;
   will-change: transform;
