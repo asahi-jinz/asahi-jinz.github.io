@@ -3,5 +3,8 @@ description: 宮城県登米市のアサヒ株式会社は、デニム製品を�
 url: "https://asahi-jinz.github.io"
 baseurl: ""
 
+job_operator_url: "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=0407001800261&kJKbn=1&jGSHNo=dxCGFY1sm1cXz%2B3QyhsBYQ%3D%3D&fullPart=1&iNFTeikyoRiyoDtiID&kSNo&newArrived&tatZngy=1&shogaiKbn=0"
+job_operator_url: "https://www.hellowork.mhlw.go.jp/kensaku/GECA110020.do?screenId=GECA110020&action=dispDetailBtn&kjNo=0407001580961&jgshNo=dxCGFY1sm1cXz%2B3QyhsBYQ%3D%3D&kjKbn=1&fullPart=1&iNFTeikyoRiyoDtiID&ksNo&newArrived&tatZngy=1"
+
 plugins:
   - jekyll-sitemap
